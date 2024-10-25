@@ -3,6 +3,9 @@
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
 
 Image based 3d object detection paper list
+## ECCV 2024
+* [MonoTTA: Fully Test-Time Adaptation for Monocular 3D Object Detection](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06035.pdf)
+
 ## CVPR 2023
 * [MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer](https://arxiv.org/pdf/2303.13018)
 * [Weakly Supervised Monocular 3D Object Detection using Multi-View Projection and Direction Consistency](https://arxiv.org/pdf/2303.08686.pdf)
